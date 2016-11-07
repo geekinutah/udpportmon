@@ -9,8 +9,8 @@
 ###############################################################################
 
 ###CONFIG VARS###
-OPEN_DIR='/opt/udplistener/open.d/'
-CLOSE_DIR='/opt/udplistener/close.d/'
+OPEN_DIR='./open.d/'
+CLOSE_DIR='./close.d/'
 ##/CONFIG VARS###
 
 FILE=$(mktemp)
